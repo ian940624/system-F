@@ -51,3 +51,5 @@ for student in students:
 print("\n✅ 選課完成，最終結果如下：")
 for student in students:
     student.get_info()
+
+    #test
